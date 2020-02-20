@@ -10,6 +10,10 @@
 
 ## Overview
 
+Firebase는 iOS, Android 등 모바일 플랫폼에서 사용할 수 있는 데이터베이스 서버이다. 별도의 서버를 구축하지 않아도 데이터베이스의 역할을 할 뿐만 아니라 사용자 인증, 사용자 행동 분석, 테스트 등의 기능을 제공하기 때문에 개인 프로젝트나 간단한 서비스를 만들 때 유용하게 사용할 수 있다.
+
+> [요금제](https://firebase.google.com/pricing?authuser=0)가 따로 있지만 무료 요금제를 사용해도 월 1만건의 인증 횟수와 1GB / 5GB의 Cloud/Realtime Database 저장 용량을 제공한다!
+
 ## Content
 
 ### Firebase 시작하기
