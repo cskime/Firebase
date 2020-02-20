@@ -1,4 +1,4 @@
-# <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="30">Firebase
+# Firebase<img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" align="right">
 > iOS 프로젝트에서 Firebase를 사용하는 방법을 기록하기 위한 공간입니다.
 >
 > 기본적인 사용 방법부터 시작해서 점점 깊이 있는 내용을 추가해 나갈 예정입니다.
