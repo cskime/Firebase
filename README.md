@@ -16,21 +16,13 @@ Firebase는 iOS, Android 등 모바일 플랫폼에서 사용할 수 있는 데�
 
 ## Content
 
-### Firebase 시작하기
-
-| CH.  | Description                               | Note | Sample |
-| ---- | ----------------------------------------- | ---- | ------ |
-| CH.0 | iOS 프로젝트에 Firebase 설치하기          | WIP  | WIP    |
-| CH.1 | Realtime Database 사용하기                | WIP  | WIP    |
-| CH.2 | Cloud Firestore 사용하기                  | WIP  | WIP    |
-| CH.3 | Storage로 이미지, 미디어 등 파일 저장하기 | WIP  | WIP    |
-
-### Firebase 활용하기
-
-| CH.  | Description                  | Note | Sample |
-| ---- | ---------------------------- | ---- | ------ |
-| CH.4 | Authenification과 FirebaseUI | WIP  | WIP    |
-| CH.5 | Analytics                    | WIP  | WIP    |
-| CH.6 | Remote Config                | WIP  | WIP    |
+| CH.   | Description                               | Note | Sample |
+| ----- | ----------------------------------------- | ---- | ------ |
+| CH.01 | Start Firebase | WIP  | WIP    |
+| CH.02 | Database | WIP  | WIP    |
+| CH.03 | Firebase Storage | WIP  | WIP    |
+| CH.04 | Authenification and FirebaseUI | WIP  | WIP    |
+| CH.05 | Analytics         | WIP  | WIP    |
+| CH.06 | Remote Config         | WIP  | WIP    |
 
 ## Reference
