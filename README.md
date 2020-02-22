@@ -16,13 +16,15 @@ Firebase는 iOS, Android 등 모바일 플랫폼에서 사용할 수 있는 데�
 
 ## Content
 
-| CH.   | Description                               | Note | Sample |
+| CH.   | Description                               | Sample | Note |
 | ----- | ----------------------------------------- | ---- | ------ |
-| CH.01 | Start Firebase | WIP  | WIP    |
-| CH.02 | Database | WIP  | WIP    |
-| CH.03 | Firebase Storage | WIP  | WIP    |
-| CH.04 | Authenification and FirebaseUI | WIP  | WIP    |
-| CH.05 | Analytics         | WIP  | WIP    |
-| CH.06 | Remote Config         | WIP  | WIP    |
+| CH.01 | Start Firebase | [CH01. Start Firebase](https://github.com/cskime/Firebase/blob/master/contents/CH01.StartFirebase.md) | 초기 세팅 |
+| CH.02 | Database | WIP  |     |
+| CH.03 | Firebase Storage | WIP  |     |
+| CH.04 | Authenification and FirebaseUI | WIP  |     |
+| CH.05 | Analytics         | WIP  |     |
+| CH.06 | Remote Config         | WIP  |     |
+
+> [Sample Project](https://github.com/cskime/Firebase/tree/master/contents/FirebaseEx)
 
 ## Reference
