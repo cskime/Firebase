@@ -19,7 +19,7 @@ Firebase는 iOS, Android 등 모바일 플랫폼에서 사용할 수 있는 데�
 | CH.   | Description                               | Sample | Note |
 | ----- | ----------------------------------------- | ---- | ------ |
 | CH.01 | Start Firebase | [CH01. Start Firebase](https://github.com/cskime/Firebase/blob/master/contents/CH01.StartFirebase.md) | 초기 세팅 |
-| CH.02 | Database | WIP  |     |
+| CH.02 | Database | [CH02. Database](https://github.com/cskime/Firebase/blob/master/contents/CH02.Database.md) | Realtime Firebase<br />Cloud Firestore |
 | CH.03 | Firebase Storage | WIP  |     |
 | CH.04 | Authenification and FirebaseUI | WIP  |     |
 | CH.05 | Analytics         | WIP  |     |
